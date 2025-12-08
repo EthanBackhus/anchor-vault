@@ -1,0 +1,10 @@
+/home/ethanbackhus/SolanaProjects/q4turbin3/10-14-25/anchor-vault-starter-q4-25/anchor-vault-starter-q4-25/target/release/deps/libthiserror-ac0a038f7d428669.rmeta: /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/ethanbackhus/SolanaProjects/q4turbin3/10-14-25/anchor-vault-starter-q4-25/anchor-vault-starter-q4-25/target/release/deps/libthiserror-ac0a038f7d428669.rlib: /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/ethanbackhus/SolanaProjects/q4turbin3/10-14-25/anchor-vault-starter-q4-25/anchor-vault-starter-q4-25/target/release/deps/thiserror-ac0a038f7d428669.d: /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:

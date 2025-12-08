@@ -1,0 +1,9 @@
+/home/ethanbackhus/SolanaProjects/q4turbin3/10-14-25/anchor-vault-starter-q4-25/anchor-vault-starter-q4-25/target/sbf-solana-solana/release/deps/libsolana_invoke-6e7d7c1ac2925954.rmeta: /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/lib.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/stable_instruction_borrowed.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/../README.md
+
+/home/ethanbackhus/SolanaProjects/q4turbin3/10-14-25/anchor-vault-starter-q4-25/anchor-vault-starter-q4-25/target/sbf-solana-solana/release/deps/libsolana_invoke-6e7d7c1ac2925954.rlib: /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/lib.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/stable_instruction_borrowed.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/../README.md
+
+/home/ethanbackhus/SolanaProjects/q4turbin3/10-14-25/anchor-vault-starter-q4-25/anchor-vault-starter-q4-25/target/sbf-solana-solana/release/deps/solana_invoke-6e7d7c1ac2925954.d: /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/lib.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/stable_instruction_borrowed.rs /home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/../README.md
+
+/home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/lib.rs:
+/home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/stable_instruction_borrowed.rs:
+/home/ethanbackhus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-invoke-0.4.0/src/../README.md:
